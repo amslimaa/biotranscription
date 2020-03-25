@@ -1,4 +1,4 @@
-# Bioinformática - Atividade 01
+# Bioinformática 
 
 Transcrição: Criando um RNA mensageiro
 
